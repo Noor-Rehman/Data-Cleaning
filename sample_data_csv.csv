@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Department,Join_Date,Performance_Score
+1,Ali,25,55000,IT,2020-01-15,85
+2,Sara,29,,HR,2021-03-22,90
+3,Hassan,22,48000,Finance,2019-11-10,
+4,Maria,,62000,IT,2020-05-30,88
+5,,30,1000000,HR,2022-01-01,92
+6,John,28,57000,,2021-07-12,95
+7,Zara,26,53000,Finance,NA,77
+8,Ahmed,35,110000,Sales,2020-09-15,82
+9,Usman,40,9999999,Marketing,2018-12-01,89
+10,Nadia,23,47000,Finance,2022-06-10,91
